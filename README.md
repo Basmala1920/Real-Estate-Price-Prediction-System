@@ -224,10 +224,10 @@ curl -X POST http://localhost:8000/predict \
 ## 🖼️ Screenshots
 
 **Home page**
-![Home page](frontend/src/Home.png)
+![Home page](Home.png)
 
 **Prediction result**
-![Prediction result](frontend/src/Prediction.png)
+![Prediction result](Prediction.png)
 
 ---
 
